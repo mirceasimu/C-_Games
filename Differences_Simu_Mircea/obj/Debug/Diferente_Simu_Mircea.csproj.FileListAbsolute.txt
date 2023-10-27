@@ -1,0 +1,41 @@
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\bin\Debug\Diferente_Gurbai_Bogdan.exe.config
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\bin\Debug\Diferente_Gurbai_Bogdan.exe
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\bin\Debug\Diferente_Gurbai_Bogdan.pdb
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.csprojAssemblyReference.cache
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.Form1.resources
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.Properties.Resources.resources
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.csproj.GenerateResource.cache
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.csproj.CoreCompileInputs.cache
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.exe
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.pdb
+D:\A\Gurbai Bogdan\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.Generic.resources
+C:\Users\User\Desktop\_\Bogdan\Info\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\bin\Debug\Diferente_Gurbai_Bogdan.exe.config
+C:\Users\User\Desktop\_\Bogdan\Info\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\bin\Debug\Diferente_Gurbai_Bogdan.exe
+C:\Users\User\Desktop\_\Bogdan\Info\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\bin\Debug\Diferente_Gurbai_Bogdan.pdb
+C:\Users\User\Desktop\_\Bogdan\Info\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.Form1.resources
+C:\Users\User\Desktop\_\Bogdan\Info\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.Generic.resources
+C:\Users\User\Desktop\_\Bogdan\Info\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.Properties.Resources.resources
+C:\Users\User\Desktop\_\Bogdan\Info\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\_\Bogdan\Info\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\_\Bogdan\Info\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.exe
+C:\Users\User\Desktop\_\Bogdan\Info\C#\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.pdb
+C:\Users\simum\Desktop\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\bin\Debug\Diferente_Gurbai_Bogdan.exe.config
+C:\Users\simum\Desktop\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\bin\Debug\Diferente_Gurbai_Bogdan.exe
+C:\Users\simum\Desktop\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\bin\Debug\Diferente_Gurbai_Bogdan.pdb
+C:\Users\simum\Desktop\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.csprojAssemblyReference.cache
+C:\Users\simum\Desktop\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.Form1.resources
+C:\Users\simum\Desktop\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.Generic.resources
+C:\Users\simum\Desktop\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.Properties.Resources.resources
+C:\Users\simum\Desktop\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.csproj.GenerateResource.cache
+C:\Users\simum\Desktop\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.exe
+C:\Users\simum\Desktop\Diferente_Gurbai_Bogdan\Diferente_Gurbai_Bogdan\obj\Debug\Diferente_Gurbai_Bogdan.pdb
+C:\Users\simum\Desktop\Diferente_Simu_Mircea\Diferente_Simu_Mircea\obj\Debug\Diferente_Simu_Mircea.csprojAssemblyReference.cache
+C:\Users\simum\Desktop\Diferente_Simu_Mircea\Diferente_Simu_Mircea\obj\Debug\Diferente_Gurbai_Bogdan.Form1.resources
+C:\Users\simum\Desktop\Diferente_Simu_Mircea\Diferente_Simu_Mircea\obj\Debug\Diferente_Gurbai_Bogdan.Generic.resources
+C:\Users\simum\Desktop\Diferente_Simu_Mircea\Diferente_Simu_Mircea\obj\Debug\Diferente_Simu_Mircea.csproj.GenerateResource.cache
+C:\Users\simum\Desktop\Diferente_Simu_Mircea\Diferente_Simu_Mircea\obj\Debug\Diferente_Simu_Mircea.Properties.Resources.resources
+C:\Users\simum\Desktop\Diferente_Simu_Mircea\Diferente_Simu_Mircea\obj\Debug\Diferente_Simu_Mircea.exe
+C:\Users\simum\Desktop\Diferente_Simu_Mircea\Diferente_Simu_Mircea\obj\Debug\Diferente_Simu_Mircea.pdb
+C:\Users\simum\Desktop\Diferente_Simu_Mircea\Diferente_Simu_Mircea\bin\Debug\Diferente_Simu_Mircea.exe.config
+C:\Users\simum\Desktop\Diferente_Simu_Mircea\Diferente_Simu_Mircea\bin\Debug\Diferente_Simu_Mircea.exe
+C:\Users\simum\Desktop\Diferente_Simu_Mircea\Diferente_Simu_Mircea\bin\Debug\Diferente_Simu_Mircea.pdb
